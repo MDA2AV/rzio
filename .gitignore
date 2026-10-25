@@ -1,0 +1,11 @@
+# Kbuild output
+*.o
+*.ko
+*.mod
+*.mod.c
+.*.cmd
+modules.order
+Module.symvers
+
+# Tools
+tools/rzio_test
